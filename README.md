@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Daniel Leussa, nice to meet you
+- I'm currently learning Software development
+- I'm looking to collaborate on any open source project
+- Do you have a project for me ? Send me and email or write me on linkedin
